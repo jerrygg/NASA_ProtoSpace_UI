@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 8fbc000c8b509804da80c00bcdff0341
+timeCreated: 1479321278
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: suspension_arm_B2_L_001
+    100004: suspension_arm_B2_R_002
+    100006: suspension_arm_B_L_001
+    100008: suspension_arm_B_R_002
+    100010: suspension_arm_F_L_001
+    100012: suspension_arm_F_R_002
+    100014: suspension_axel_L_001
+    100016: suspension_axel_R_001
+    100018: suspension_rod_L_001
+    100020: suspension_rod_R_001
+    100022: suspension_steer_B_L_001
+    100024: suspension_steer_B_R_003
+    100026: suspension_steer_F_L_001
+    100028: suspension_steer_F_R_002
+    100030: suspension_xmember_001
+    100032: wheel_01_L_001
+    100034: wheel_01_R_002
+    100036: wheel_02_L_001
+    100038: wheel_02_R_002
+    100040: wheel_03_L_001
+    100042: wheel_03_R_004
+    400000: //RootNode
+    400002: suspension_arm_B2_L_001
+    400004: suspension_arm_B2_R_002
+    400006: suspension_arm_B_L_001
+    400008: suspension_arm_B_R_002
+    400010: suspension_arm_F_L_001
+    400012: suspension_arm_F_R_002
+    400014: suspension_axel_L_001
+    400016: suspension_axel_R_001
+    400018: suspension_rod_L_001
+    400020: suspension_rod_R_001
+    400022: suspension_steer_B_L_001
+    400024: suspension_steer_B_R_003
+    400026: suspension_steer_F_L_001
+    400028: suspension_steer_F_R_002
+    400030: suspension_xmember_001
+    400032: wheel_01_L_001
+    400034: wheel_01_R_002
+    400036: wheel_02_L_001
+    400038: wheel_02_R_002
+    400040: wheel_03_L_001
+    400042: wheel_03_R_004
+    2300000: suspension_arm_B2_L_001
+    2300002: suspension_arm_B2_R_002
+    2300004: suspension_arm_B_L_001
+    2300006: suspension_arm_B_R_002
+    2300008: suspension_arm_F_L_001
+    2300010: suspension_arm_F_R_002
+    2300012: suspension_axel_L_001
+    2300014: suspension_axel_R_001
+    2300016: suspension_rod_L_001
+    2300018: suspension_rod_R_001
+    2300020: suspension_steer_B_L_001
+    2300022: suspension_steer_B_R_003
+    2300024: suspension_steer_F_L_001
+    2300026: suspension_steer_F_R_002
+    2300028: suspension_xmember_001
+    2300030: wheel_01_L_001
+    2300032: wheel_01_R_002
+    2300034: wheel_02_L_001
+    2300036: wheel_02_R_002
+    2300038: wheel_03_L_001
+    2300040: wheel_03_R_004
+    3300000: suspension_arm_B2_L_001
+    3300002: suspension_arm_B2_R_002
+    3300004: suspension_arm_B_L_001
+    3300006: suspension_arm_B_R_002
+    3300008: suspension_arm_F_L_001
+    3300010: suspension_arm_F_R_002
+    3300012: suspension_axel_L_001
+    3300014: suspension_axel_R_001
+    3300016: suspension_rod_L_001
+    3300018: suspension_rod_R_001
+    3300020: suspension_steer_B_L_001
+    3300022: suspension_steer_B_R_003
+    3300024: suspension_steer_F_L_001
+    3300026: suspension_steer_F_R_002
+    3300028: suspension_xmember_001
+    3300030: wheel_01_L_001
+    3300032: wheel_01_R_002
+    3300034: wheel_02_L_001
+    3300036: wheel_02_R_002
+    3300038: wheel_03_L_001
+    3300040: wheel_03_R_004
+    4300000: suspension_arm_B2_L_001
+    4300002: suspension_steer_B_L_001
+    4300004: wheel_03_L_001
+    4300006: wheel_02_L_001
+    4300008: suspension_arm_B2_R_002
+    4300010: suspension_steer_B_R_003
+    4300012: wheel_03_R_004
+    4300014: wheel_02_R_002
+    4300016: suspension_arm_B_L_001
+    4300018: suspension_arm_B_R_002
+    4300020: suspension_arm_F_L_001
+    4300022: suspension_arm_F_R_002
+    4300024: suspension_axel_L_001
+    4300026: suspension_rod_L_001
+    4300028: suspension_axel_R_001
+    4300030: suspension_rod_R_001
+    4300032: suspension_steer_F_L_001
+    4300034: wheel_01_L_001
+    4300036: suspension_steer_F_R_002
+    4300038: wheel_01_R_002
+    4300040: suspension_xmember_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
